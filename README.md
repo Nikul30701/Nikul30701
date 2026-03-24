@@ -84,12 +84,11 @@ M.Sc. Chemistry – Monark University (2024)
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 🔗 LinkedIn: (https://www.linkedin.com/in/nikul6403/)
+* 📧 Email: (p.nikul6403@gmail.com)
 
 ---
 
-⭐ “Building scalable systems with clean architecture”
 
 
 <!--
